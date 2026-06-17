@@ -1,0 +1,49 @@
+body{
+    background-color:skyblue;
+}
+.titleclass{
+    font-weight: bold;
+    margin:10px 0px 0px 0px
+}
+.listclass{
+    font-style: italic;
+    font-size: 15px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+.centerclass{
+    text-align: center;
+}
+.rightclass{
+    text-align: right;
+}
+.boxclass{
+    border: 3px solid black;
+    padding: 10px
+}
+.linkclass{
+    color:white;
+    background-color:black;
+    padding:3px;
+    margin: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.centerclass{
+    text-align: center;
+}
+.aboutclass{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.resclass{
+font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.fixedclass{
+    position: fixed;
+    top: 0px;
+    padding: 10px;
+    z-index: 10;
+}
